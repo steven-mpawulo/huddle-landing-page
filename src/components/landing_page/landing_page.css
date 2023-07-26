@@ -7,13 +7,35 @@
 
 .wrapper-container {
     display: flex;
+    width: 100%;
 }
 .left-container {
     margin-left: 5%;
+    margin-top: 5%;
     
 }
 
 .right-container {
     margin-left: 30px;
     padding-top: 10%;
+}
+
+.main-text {
+    color: white;
+    font-size: 50px;
+    margin: 0;
+}
+
+.supplementary-text {
+    color: whitesmoke;
+
+}
+
+.register-button {
+    border: 1px solid hsl(300, 69%, 71%);
+    border-radius: 20px;
+    background-color: hsl(300, 69%, 71%);
+    color: white;
+    height: 30px;
+    width: 150px;
 }
