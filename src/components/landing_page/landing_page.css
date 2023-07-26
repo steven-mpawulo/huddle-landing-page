@@ -4,3 +4,16 @@
     background-image: url(../../images/bg-desktop.svg);
     background-color: hsl(257, 40%, 49%);
 }
+
+.wrapper-container {
+    display: flex;
+}
+.left-container {
+    margin-left: 5%;
+    
+}
+
+.right-container {
+    margin-left: 30px;
+    padding-top: 10%;
+}
