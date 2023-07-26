@@ -1,5 +1,6 @@
 import React from 'react'
 import MyHeader from '../header/MyHeader'
+import './landing_page.css'
 
 const LandingPage = () => {
   return (
