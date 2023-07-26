@@ -2,6 +2,7 @@ import React from 'react'
 import MyHeader from '../header/MyHeader'
 import './landing_page.css'
 import Illustration from '../../images/illustration-mockups.svg'
+import Footer from '../footer/Footer'
 
 const LandingPage = () => {
   return (
@@ -19,9 +20,9 @@ const LandingPage = () => {
             <button className='register-button'>Register</button>
           </div>
         </div>
-
-
+        <Footer/>
       </main>
+      
     </div>
   )
 }

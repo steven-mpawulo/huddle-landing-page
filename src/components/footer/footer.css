@@ -1,0 +1,6 @@
+.my-footer {
+    width: 100%;
+    display: flex;
+    justify-content: flex-end;
+    background-color: hsl(257, 40%, 49%);;
+}

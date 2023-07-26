@@ -1,23 +1,26 @@
 .main-container{
     height: 100vh;
     width: 100%;
-    background-image: url(../../images/bg-desktop.svg);
-    background-color: hsl(257, 40%, 49%);
 }
 
 .wrapper-container {
     display: flex;
     width: 100%;
+    margin-bottom: 0.0;
+    height: 100%;
+    background-color: transparent;
 }
 .left-container {
     margin-left: 5%;
     margin-top: 5%;
+    height: 100%;
     
 }
 
 .right-container {
     margin-left: 30px;
     padding-top: 10%;
+    height: 100%;
 }
 
 .main-text {

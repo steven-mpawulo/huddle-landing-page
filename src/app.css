@@ -1,0 +1,5 @@
+.major-container {
+    height: 100vh;
+    background-image: url(./images/bg-desktop.svg);
+    background-color: hsl(257, 40%, 49%);
+}
